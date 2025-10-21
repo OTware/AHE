@@ -39,19 +39,20 @@ It is designed solely to **observe response patterns** when identity awareness i
 
 <pre>
 OTware/AHE/ │
-            ├── README_PRIVATE.md                                   ├── ahe_pipeline.py
-            │                                                       ├── data/ 
-            |
-            ├── curricula/ 
-            │   └── results/ 
-            │ 
-            ├──  reports/ 
-            │   
-            ├── week_01_log.md 
-            │   └── comparison_summary.md 
-            │           └── safety/ 
-            ├── sandbox_policy.md 
-            └── ethics_checklist.md
+OTware/projects/AHE/ │
+                                          ├── README_PRIVATE.md                                                                                 ├── ahe_pipeline.py
+                                          │                                                                                                                                ├── data/ 
+                                          │  
+                                          ├── curricula/ 
+                                          │   └── results/ 
+                                          │ 
+                                          ├── reports/
+                                          │   
+                                          ├── week_01_log.md 
+                                          │   └── comparison_summary.md 
+                                          │           └── safety/ 
+                                          ├── sandbox_policy.md 
+                                          └── ethics_checklist.md
 
 
 
