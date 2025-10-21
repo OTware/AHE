@@ -37,7 +37,7 @@ It is designed solely to **observe response patterns** when identity awareness i
 
 ## 🗂️ Directory Structure
 
-
+<dev>
 OTware/AHE/ │
             ├── README_PRIVATE.md                                   ├── ahe_pipeline.py
             │                                                       ├── data/ 
@@ -52,7 +52,7 @@ OTware/AHE/ │
             │           └── safety/ 
             ├── sandbox_policy.md 
             └── ethics_checklist.md
-
+</dev>
 ---
 
 
