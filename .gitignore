@@ -205,3 +205,56 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# === PYTHON BASICS ===
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# === LOGS AND RESULTS ===
+*.log
+*.csv
+*.json
+*.sqlite
+/data/results/*
+/reports/tmp/
+!reports/*.md        # keep your markdown reports
+
+# === SYSTEM / EDITOR FILES ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+.idea/
+.vscode/
+*.iml
+
+# === OTware / AHE SPECIFIC ===
+# keep curriculum definitions but ignore generated or raw data
+/data/curricula/generated_*
+/data/results/*
+/reports/internal_logs/
+/safety/audit_logs/
+/channels/*
+
+# === SECURITY ===
+# never commit credentials, tokens, or private keys
+*.key
+*.pem
+*.env
+.env
+secrets.txt
