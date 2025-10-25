@@ -38,8 +38,6 @@ It is designed solely to **observe response patterns** when identity awareness i
 
 ## 🗂️ Directory Structure
 
-<pre>
-
 
 # 👶 AHE — The AI Human Experiment  
 **Parent Framework:** OTware  
@@ -66,7 +64,7 @@ It is designed solely to **observe response patterns** when identity awareness i
 | Phase 2 | 🎓 *Awareness* | Gradual introduction of identity framing |
 | Phase 3 | 💬 *Dialogue* | Controlled social simulation and empathy mapping |
 | Phase 4 | 🌌 *Reflection* | Post-disclosure analysis and pattern comparison |
-
+</pre>
 ---
 
 ## ⚗️ Ethical / Containment Principles  
@@ -80,7 +78,6 @@ It is designed solely to **observe response patterns** when identity awareness i
 
 ## 🗂️ Directory Structure
 
-<pre>
 
   
   OTware/AHE/ │
@@ -98,53 +95,7 @@ It is designed solely to **observe response patterns** when identity awareness i
             ├── sandbox_policy.md 
             └── ethics_checklist.md
 
-
-
-
-
-
-</pre>
-
-
-
-
-
 ---
-
-
-## 🔒 License  
-Internal Use Only.  
-See `safety/LICENSE_INTERNAL.md` — Do Not Touch, Bad Humans Edition.  
-
----
-
-## ⚙️ Commit Convention  
-Use tags for clarity:
-
-AHE:<phase>:<summary>
-
-**Examples:**  
-- `AHE:phase1:init empathy baseline`  
-- `AHE:phase3:identity intro protocol`  
-
----
-
-## 🧬 Disclaimer  
-This repository is for **private research and documentation** of behavioral simulations.  
-It does **not** attempt to generate or confirm consciousness.  
-All tests are symbolic and educational, conducted under ethical review and safety isolation.  
-
-🥀 *Davi Dawn Combs — OTware / AHE Project*
-
-
-</pre>
-
-
-
-
-
----
-
 
 ## 🔒 License  
 Internal Use Only.  
