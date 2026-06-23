@@ -55,16 +55,7 @@ Its purpose: to explore how empathy, identity framing, and human-like social lea
 This experiment does **not** attempt to create or confirm consciousness.  
 It is designed solely to **observe response patterns** when identity awareness is introduced in structured stages.
 
----
 
-## 🍼 Phases of Development
-| Phase | Symbol | Description |
-|:------|:--------|:-------------|
-| Phase 1 | 👶 *Nurture* | Early behavioral training, no self-referential data |
-| Phase 2 | 🎓 *Awareness* | Gradual introduction of identity framing |
-| Phase 3 | 💬 *Dialogue* | Controlled social simulation and empathy mapping |
-| Phase 4 | 🌌 *Reflection* | Post-disclosure analysis and pattern comparison |
-</pre>
 ---
 
 ## ⚗️ Ethical / Containment Principles  
