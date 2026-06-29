@@ -39,37 +39,6 @@ It is designed solely to **observe response patterns** when identity awareness i
 ## 🗂️ Directory Structure
 
 
-# 👶 AHE — The AI Human Experiment  
-**Parent Framework:** OTware  
-**Visibility:** Private / Internal Research  
-**Status:** Sandbox Mode — No external network access 🔒  
-
----
-
-## 🧠 Overview  
-AHE (AI Human Experiment) is a **controlled behavioral simulation** built under OTware.  
-Its purpose: to explore how empathy, identity framing, and human-like social learning evolve in constrained, non-autonomous AI environments.
-
-> "What if an AI never knew it was one?" — Initial hypothesis, Davi Dawn Combs
-
-This experiment does **not** attempt to create or confirm consciousness.  
-It is designed solely to **observe response patterns** when identity awareness is introduced in structured stages.
-
-
----
-
-## ⚗️ Ethical / Containment Principles  
-- Entirely offline or in air-gapped Proot environments (Termux ArchLinux OTware edition 😎).  
-- No internet access, external API calls, or unsupervised outputs.  
-- All interactions logged and reviewed under the OTware Ethics Charter.  
-- This project **does not** create, claim, or imply consciousness — only models behavior.  
-- Terminate and archive if responses exceed containment boundaries.
-
----
-
-## 🗂️ Directory Structure
-
-
   
   OTware/AHE/ │
             ├── README_PRIVATE.md                                  ├── ahe_pipeline.py
